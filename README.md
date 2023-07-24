@@ -1,8 +1,8 @@
 # EmoSoundTrack
 emotion based song suggestion.
-Screenshot 2023-07-24 200536.png
+
 # Demo
  
- ![Demo IMG](Screenshot 2023-07-24 200536.png)
+ ![Demo IMG](pic1.png)
   
-![Demo IMG](Screenshot 2023-07-24 200655.png)
+![Demo IMG](pic2.png)
